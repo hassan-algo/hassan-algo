@@ -23,7 +23,6 @@ _Hi there! I am Hassan Anwar, an enthusiastic Software Engineer. I’ve been in 
 </a>
 </p>
 <hr>
-<br/>
 
 ### 🧰 Languages & Tools
 
@@ -55,3 +54,14 @@ _Hi there! I am Hassan Anwar, an enthusiastic Software Engineer. I’ve been in 
 
 #
 
+### 📊 Stats
+
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-algo&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hassan-algo&theme=gruvbox&border_radius=4.5)
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Hassan's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, hacking and game dev. It all started when I started wondering how games are made and I got a free membership plan of <a href="https://www.lynda.com.cach3.com">Lynda.com</a>. There I started learning about game dev. I didn't know what I was doing but It was fun. Then I got to my first programming course and my teacher told me that I would be a good computer scientist. It was amazing hearing those words. Things started to make sence to me. I loved it. I was good at it. I wanted to have a safe job and a career in game dev. But as I got older I understood that computer science is a vaste field. I started to discover more. I learned game dev, web dev, mobile dev and desktop app development. I was not the best in my class but I was the one people try to reach while having programming issues. Then I realised my obsession with learing is motivated from helping others. I wanted to create opportunities and then in March 2022, I started my own startup named "<a href="https://linkedin.com/company/weteck">WeTeck</a>" and in November 2022, I have 5 employees in my startup and we've taught 4 interns. My Dream is to make WeTeck one of the best companies of the world because I know I can do this.
