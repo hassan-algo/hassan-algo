@@ -50,5 +50,7 @@ _Hi there! I am Hassan Anwar, an enthusiastic Software Engineer. I’ve been in 
 <img  align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           
+<br>
+<br>
 #
 
