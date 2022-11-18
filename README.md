@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hassan Anwar
 
+**Digital Craftsman (CEO <a href="https://linkedin.com/company/weteck" style="">
+<span style="color:rgb(101, 188, 250)">We</span><span style="color:rgb(255,117,117)">Teck<span>
+</a>/Developer)**
+### Hi there 👋
+linear-gradient(
+        to right,
+        rgb(4, 95, 155),
+        rgb(101, 188, 250)
+      )
 <!--
 **hassan-algo/hassan-algo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
