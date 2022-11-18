@@ -3,14 +3,8 @@
 **Digital Craftsman (CEO <a href="https://linkedin.com/company/weteck" style="">
 <span style="color:rgb(101, 188, 250)">We</span><span style="color:rgb(255,117,117)">Teck<span>
 </a>/Developer)**
-### Hi there 👋
-linear-gradient(
-        to right,
-        rgb(4, 95, 155),
-        rgb(101, 188, 250)
-      )
-<!--
-**hassan-algo/hassan-algo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Hi there! I am Hassan Anwar! I've been coding for over 6 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realized my passion existed creating new opportunities. With this passion, I have now launched a new startup named WeTeck. WeTeck helps you build a innovative and better technologies. WeTeck believe in making a new reality. WeTeck is all about We and Us together
 
 Here are some ideas to get you started:
 
@@ -22,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
