@@ -26,8 +26,6 @@ _Hi there! I am Hassan Anwar, an enthusiastic Software Engineer. I’ve been in 
 <br/>
 
 ### 🧰 Languages & Tools
-<br/>
-
 
 <img  align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
