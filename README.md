@@ -62,9 +62,10 @@ I Love Go :heart: ![gopher dancing](./dancing-gopher.gif)
 #
 
 ### 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-algo&theme=dark&layout=pie)
+/api/top-langs/?username=hassan-algo
+![Top Langs](https://github-readme-stats-nu-khaki.vercel.app/api/top-langs/?username=hassan-algo&theme=dark&layout=pie)
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-algo&show_icons=true&theme=gruvbox)
+![Hassan's GitHub stats](https://github-readme-stats-nu-khaki.vercel.app/api?username=hassan-algo&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hassan-algo&theme=gruvbox&border_radius=4.5)
 
