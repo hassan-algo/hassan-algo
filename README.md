@@ -2,10 +2,10 @@
 
 
 **🖥️ Digital Craftsman (CEO 
-<img width="20px" src="https://www.weteck.co/wp-content/uploads/2022/02/Weteck-Website-Logo-Black.png" /><a href="https://linkedin.com/company/weteck" style="">
-<span style="color:rgb(101, 188, 250)">We</span><span style="color:rgb(255,117,117)">Teck<span>
+<a href="https://linkedin.com/company/weteck" style="">
+<img width="80px" src="https://www.weteck.co/wp-content/uploads/2022/02/Weteck-Website-Logo-White.png" />
 </a>
-/Developer)**
+ / Developer)**
 <br/>
 <br/>
 _Hi there! I am Hassan Anwar, an enthusiastic Software Engineer. I’ve been in the exciting domain of the coding for over 6 years, now. During this tenure, I have worked with several startups and larger co- operations. Working on different in-house and client-based projects helped me to broaden my vision about technology and development. Along this exciting journey, I realized my passion to create and develop new opportunities in this vast domain of computer science. To concrete my passion, I have now launched a startup, named as WeTeck. We welcome you to share your ideas and Weteck will help you to develop a new reality of innovative technology based on your idea/dream._
