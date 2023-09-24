@@ -2,7 +2,7 @@
 
 
 **🖥️ Digital Craftsman (CEO 
-<img width="20px" src="https://weteck.co/Weteck-4K.png" /><a href="https://linkedin.com/company/weteck" style="">
+<img width="20px" src="https://www.weteck.co/wp-content/uploads/2022/02/Weteck-Website-Logo-Black.png" /><a href="https://linkedin.com/company/weteck" style="">
 <span style="color:rgb(101, 188, 250)">We</span><span style="color:rgb(255,117,117)">Teck<span>
 </a>
 /Developer)**
@@ -20,6 +20,9 @@ _Hi there! I am Hassan Anwar, an enthusiastic Software Engineer. I’ve been in 
 </a>
 <a href="https://discord.gg/user/hassanalgo">
    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCmG8np1WdVB3rp35ejMVn4A">
+   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 </p>
 
