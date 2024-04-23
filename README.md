@@ -2,28 +2,18 @@
 
 
 **🖥️ Digital Craftsman (CEO 
-<a href="https://linkedin.com/company/weteck" style="">
-<img width="80px" src="https://www.weteck.co/wp-content/uploads/2022/02/Weteck-Website-Logo-White.png" />
-</a>
- / Developer)**
+<a href="https://linkedin.com/company/weteck" style=""><img width="80px" src="https://www.weteck.co/wp-content/uploads/2022/02/Weteck-Website-Logo-White.png" /></a>
+/ Developer)**
 <br/>
 <br/>
 _Hi there! I am Hassan Anwar, an enthusiastic Software Engineer. I’ve been in the exciting domain of the coding for over 6 years, now. During this tenure, I have worked with several startups and larger co- operations. Working on different in-house and client-based projects helped me to broaden my vision about technology and development. Along this exciting journey, I realized my passion to create and develop new opportunities in this vast domain of computer science. To concrete my passion, I have now launched a startup, named as WeTeck. We welcome you to share your ideas and Weteck will help you to develop a new reality of innovative technology based on your idea/dream._
 <br/>
 <br/>
 <p align="left">
-<a href="https://linkedin.com/in/hassan-algo">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/hassan.oppa">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://discord.gg/user/hassanalgo">
-   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCmG8np1WdVB3rp35ejMVn4A">
-   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/hassan-algo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/hassan.oppa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.gg/user/hassanalgo"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCmG8np1WdVB3rp35ejMVn4A"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-zadge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <hr>
