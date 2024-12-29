@@ -2,7 +2,7 @@
 
 
 **🖥️ Digital Craftsman (CEO 
-<a href="https://linkedin.com/company/weteck" style=""><img width="80px" src="https://www.weteck.co/wp-content/uploads/2022/02/Weteck-Website-Logo-White.png" /></a>
+<a href="https://linkedin.com/company/weteck" style=""><img height="15px" src="https://weteck.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.aa82a382.png&w=96&q=75" /></a>
 / Developer)**
 <br/>
 <br/>
