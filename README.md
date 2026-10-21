@@ -81,7 +81,6 @@ Collected data from 15 websites on a 5-minute refresh cycle by replaying each si
 > 
 > * **Contribution:** Fixed a routing/sender issue for requests sent to a PID in Docker environments ([Pull Request #30](https://github.com/anthdm/hollywood/pull/30)).
 ---
-[![](https://komarev.com/ghpvc/?username=hassan-algo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
