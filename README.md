@@ -17,13 +17,14 @@
 
 ## 👨‍💻 About Me
 
+ 
 Backend-focused engineer with **6 years** of fully remote delivery for UK and US companies. I founded [**WeTeck**](https://linkedin.com/company/weteck) in 2022, led it as CEO until it was acquired by [**LIM (Less is More)**](https://golim.com), and went on to become Technical Team Lead and Head of IT.
-
+ 
 - 🏗️ Led an engineering team of **15+** that delivered **10+ client systems**
 - ⚙️ Own service decomposition, API contracts, schema design and release process
 - 💳 Payment, ERP and order-management integrations (Moneris, Payroc, Factor4, PayPal, Braintree, SYSPRO, Linnworks)
 - 🔐 Authentication, role-based access control, GDPR and PCI DSS-aware system design
-- 🌍 **Open to Senior Backend Engineer / Technical Lead roles**, including relocation to Germany
+
 
 ## 🛠️ Tech Stack
  
